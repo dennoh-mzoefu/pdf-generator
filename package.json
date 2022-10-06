@@ -1,0 +1,24 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "pdf generator",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dennoh-mzoefu/pdf-generator.git"
+  },
+  "author": "denis gichana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dennoh-mzoefu/pdf-generator/issues"
+  },
+  "homepage": "https://github.com/dennoh-mzoefu/pdf-generator#readme",
+  "dependencies": {
+    "easyinvoice": "^2.3.3",
+    "express": "^4.18.1",
+    "nodemon": "^2.0.20"
+  }
+}
